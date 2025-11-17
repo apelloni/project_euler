@@ -1,0 +1,4 @@
+# Power Digit Sum
+
+
+print(sum([int(n) for n in list(str(2**1000))]))
